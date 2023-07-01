@@ -9,6 +9,7 @@ Here are some highlights of the projects you'll find in my repositories:
 - [Maskify](https://github.com/Anechaev06/maskify): **Dapp Wallet: Securely login with Metamask, effortlessly swap cryptocurrencies, and track your crypto portfolio with ease. Your gateway to a decentralized future.**
 - [Quizz.me](https://github.com/Anechaev06/quizz_me): **Quizz.me: Study and quiz app built with Flutter. This app aims to provide a seamless learning experience and engage users in interactive quizzes.**
 - [Wallet](https://github.com/Anechaev06/wallet_app): **Wallet App: Your secure, on-the-go digital wallet. Store payment methods, track transactions, and perform financial activities with ease.**
+- [Sneaker Store](https://github.com/Anechaev06/sneaker_store): **E-commerce Sneaker Store. It allows users to browse, search, and purchase sneakers online.**
 
 ## 🛠 Skills
 My technical skills and areas of expertise include:
