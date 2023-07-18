@@ -11,5 +11,5 @@ Hello there! I'm Anechaev, and I'm delighted to have you visit my GitHub profile
 
 ## 🛠 Skills
 - Programming languages: [Dart, Python, C#]
-- Frameworks and engines: [Flutter, Unity, Django]
+- Frameworks and engines: [Flutter, TensorFlow, Unity]
 - Tools and technologies: [Git, Firebase, Figma]
