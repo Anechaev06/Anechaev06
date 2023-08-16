@@ -9,6 +9,7 @@ Hello there! I'm Anechaev, and I'm delighted to have you visit my GitHub profile
 - [Quizz.me](https://github.com/Anechaev06/quizz_me): **Study and quiz app built with Flutter. This app aims to provide a seamless learning experience and engage users in interactive quizzes.**
 - [Wallet](https://github.com/Anechaev06/wallet_app): **Your secure, on-the-go digital wallet. Store payment methods, track transactions, and perform financial activities with ease.**
 - [Sneaker Store](https://github.com/Anechaev06/sneaker_store): **It allows users to browse, search, and purchase sneakers online.**
+- [News_App](https://github.com/Anechaev06/news_app): **A platform to keep you informed with the latest news and updates from around the world.**
 
 ## 🛠 Skills
 - Programming languages: [Dart, Python, C#]
