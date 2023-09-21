@@ -1,7 +1,7 @@
 # 👋🏻 Welcome to My GitHub Profile!
 
 ## 🔮 About Me
-Hello there! I'm Anechaev, and I'm delighted to have you visit my GitHub profile. I am passionate about Mobile Development, and this is where I showcase my projects, contributions, and experiments. I love exploring the world of technology, learning new things, and collaborating with fellow developers.
+Hello there! I'm Anechaev, and I am passionate about Mobile Development. This is where I showcase my projects.
 
 ## 🚀 Projects
 - [Financify](https://github.com/Anechaev06/Financify): **The Ultimate Investment dApp that empowers you to take full control of your investments and financial goals with AI manager.**
