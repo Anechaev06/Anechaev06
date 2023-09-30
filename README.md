@@ -3,7 +3,7 @@
 ## 🔮 About Me
 I'm Anechaev, I am engaged in mobile development. This is where I showcase my projects.
 
-## 🚀 Projects
+## 🚀 Top Projects
 - [Financify](https://github.com/Anechaev06/Financify): **Investment dApp that empowers you to take full control of your investments with AI manager.**
 - [Maskify](https://github.com/Anechaev06/maskify): **Securely login with Metamask, effortlessly swap cryptocurrencies, and track your crypto portfolio.**
 - [Quizz.me](https://github.com/Anechaev06/quizz_me): **An educational quiz app offering knowledge tests and progress tracking.**
