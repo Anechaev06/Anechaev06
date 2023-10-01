@@ -1,7 +1,7 @@
-# 👋🏻 Welcome to My GitHub Profile!
+# 👋🏻 Welcome!
 
 ## 🔮 About Me
-I'm Anechaev, mobile developer. This is where I showcase my projects.
+I'm Anechaev and I'm flutter developer. This is where I showcase my projects.
 
 ## 🚀 Top Projects
 - [Financify](https://github.com/Anechaev06/Financify): **Investment dApp that empowers you to take full control of your investments with AI manager.**
