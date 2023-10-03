@@ -1,8 +1,7 @@
-# 👋🏻 Hi, I'm Anechaev!
+# 🌕 Anechaev
 
-## 🔮 About Me
-- **Mobile developer**
-- **Portfolio website** https://astrame.tech/
+- **`Mobile developer`**
+- **`Portfolio website`** https://astrame.tech/
 
 ## 🚀 Top Projects
 - [Financify](https://github.com/Anechaev06/Financify): Investment dApp that empowers you to take full control of your investments with AI manager.
