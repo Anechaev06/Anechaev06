@@ -1,7 +1,6 @@
 # 🌕 Anechaev
-
 - **`Mobile developer`**
-- **`Portfolio website`** https://astrame.tech/
+- **[Portfolio Website](https://astrame.tech/)**
 
 ## 🚀 Top Projects
 - [Financify](https://github.com/Anechaev06/Financify): Investment dApp that empowers you to take full control of your investments with AI manager.
@@ -38,4 +37,3 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 </div>
-
