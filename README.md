@@ -1,4 +1,4 @@
-# 🌕 Anechaev
+# 🌑 Anechaev
 - **`Mobile developer`**
 - **[Portfolio Website](https://astrame.tech/)**
 
