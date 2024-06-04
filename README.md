@@ -1,4 +1,4 @@
-# 🌑 Anechaev
+# 🌟 Anechaev
 - **`Entrepreneur & Mobile developer`**
 - **[Website](https://astrame.tech/)**
 
