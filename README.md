@@ -3,7 +3,6 @@
 - **[Website](https://astrame.tech/)**
 
 ## 🚀 Top Projects
-- [Financify](https://github.com/Anechaev06/Financify): Investment dApp that empowers you to take full control of your investments with AI manager.
 - [Maskify](https://github.com/Anechaev06/maskify): Securely login with Metamask, effortlessly swap cryptocurrencies, and track your crypto portfolio.
 - [Quizz.me](https://github.com/Anechaev06/quizz_me): An educational quiz app offering knowledge tests and progress tracking.
 - [Wallet](https://github.com/Anechaev06/wallet_app): Digital wallet for easy payment management and financial transactions.
