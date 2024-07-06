@@ -1,6 +1,5 @@
 # 🌟 Anechaev
 - **`Entrepreneur & Mobile developer`**
-- **[Website](https://astrame.tech/)**
 
 ## 🚀 Top Projects
 - [Maskify](https://github.com/Anechaev06/maskify): Securely login with Metamask, effortlessly swap cryptocurrencies, and track your crypto portfolio.
